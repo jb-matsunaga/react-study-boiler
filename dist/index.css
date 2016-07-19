@@ -1,0 +1,15 @@
+#app {
+  background-color: #fafafa;
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+.c-txtBox {
+    padding: 15px;
+    background-color: #eee;
+    word-break: break-all;
+    margin-bottom: 15px;
+}
