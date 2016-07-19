@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Main from './components/main.jsx';
+import Main1 from './components/main1.jsx';
+import Main2 from './components/main2.jsx';
 
 ReactDOM.render(
-  <Main />,
+  <Main2 />,
   document.getElementById('app')
 );
